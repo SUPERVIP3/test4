@@ -1,0 +1,7 @@
+owner=591285977474007041
+prefix=a
+game=Break | SUPER
+stayinchannel=true
+songinstatus=false
+token=NTkzNTMxODkzODM2OTM5Mjc0.XRX7QA.JfHTvT87r5_BSc11ZlMo57z5X_0
+
